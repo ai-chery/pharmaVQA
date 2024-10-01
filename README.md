@@ -1,7 +1,7 @@
 # pharmaVQA
 
 # Package Installation
-You can utilize the enviro
+You can utilize the environment.yaml to install the conda enviorment.
 
 # Dataset Download
 We have placed the dataset in the \URL, you can download it and put it in the ```\dataset``` folder.
